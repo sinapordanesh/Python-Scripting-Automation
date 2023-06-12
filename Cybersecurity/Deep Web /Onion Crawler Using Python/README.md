@@ -1,5 +1,4 @@
-[![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![Requests Version](https://img.shields.io/badge/Requests-2.26.0-brightgreen)](https://pypi.org/project/requests/2.26.0/)
+
 
 
 # Onion Crawler Using Python
