@@ -1,3 +1,5 @@
+# Copyright (C) 2023 BLACK HAT PYTHON, Modified By Saman Pordanesh
+
 import socket
 
 target host = "127.0.0.1"

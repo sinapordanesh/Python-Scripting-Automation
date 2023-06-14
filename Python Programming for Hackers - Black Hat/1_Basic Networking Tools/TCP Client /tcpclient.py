@@ -1,3 +1,6 @@
+# Copyright (C) 2023 BLACK HAT PYTHON, Modified By Saman Pordanesh
+
+
 import socket
 
 target_host = "www.google.com"

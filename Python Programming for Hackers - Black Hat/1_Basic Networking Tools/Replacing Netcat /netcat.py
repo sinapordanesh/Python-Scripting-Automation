@@ -1,6 +1,5 @@
-# Copyright (C) 2023 Saman Pordanesh
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files...
+# Copyright (C) 2023 BLACK HAT PYTHON, Modified By Saman Pordanesh
+
 
 import argparse
 import socket
