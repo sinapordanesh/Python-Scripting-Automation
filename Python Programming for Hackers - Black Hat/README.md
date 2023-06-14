@@ -3,14 +3,14 @@
 Welcome to my repository of Python scripts focused on networking and cybersecurity. These scripts cover a wide range of concepts and techniques, and many of them are based on the book "Black Hat Python" by Justin Seitz. However, please note that the scripts also include my own modifications and enhancements.
 
 ## Table of Contents
-- [Basic Networking Tools]()
-    - [TCP Client]()
-    - [UDP Client]()
-    - [TCP Server]()
-    - [Replacing Netcat]()
-    - [Building a TCP Proxy]()
-    - [SSH with Paramiko]()
-    - [SSH Tunneling]()
+- [Basic Networking Tools](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools)
+    - [TCP Client](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/TCP%20Client%20)
+    - [UDP Client](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/UDP%20Client%20)
+    - [TCP Server](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/TCP%20Server)
+    - [Replacing Netcat](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/Replacing%20Netcat%20)
+    - [Building a TCP Proxy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/TCP%20Proxy)
+    - [SSH with Paramiko](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/SSH%20With%20Paramiko)
+    - [SSH Tunneling](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/1_Basic%20Networking%20Tools/SSH%20Tunneling%20)
 
 ## Disclaimer
 
