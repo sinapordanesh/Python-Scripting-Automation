@@ -1,6 +1,6 @@
 # **Decoding the IP Layer**
 
-![Screenshot 2023-06-19 at 11.03.25 AM.png](a.png)
+![a.png](a.png)
 
 The image shows an example of an IP packet and its various fields.
 
