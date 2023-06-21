@@ -1,4 +1,4 @@
-# Python Scripting and Automation for Cybersecurity and Networking
+ # Python Scripting and Automation for Cybersecurity and Networking
 
 ![a 2](https://github.com/sinapordanesh/Python-Scripting-Automation/assets/74850874/9c422f16-32fd-4915-bbe4-75f20fd54171)
 
