@@ -1,6 +1,6 @@
 # **Decoding ICMP**
 
-![Screenshot 2023-06-19 at 1.19.09 PM.png](b.png)
+![b.png](b.png)
 
 The picture above shows an example of an ICMP packet and its various fields. **ICMP** stands for **Internet Control Message Protocol**, and it is used to send error messages and operational information about network conditions. Here are the details of the fields in an ICMP packet:
 
