@@ -1,7 +1,5 @@
 # **Decoding ICMP**
 
-![b.png](b.png)
-
 The picture above shows an example of an ICMP packet and its various fields. **ICMP** stands for **Internet Control Message Protocol**, and it is used to send error messages and operational information about network conditions. Here are the details of the fields in an ICMP packet:
 
 - **Type:** The type of ICMP packet, which indicates the purpose of the message. Some common types of ICMP packets include Echo Request (Type 8), Echo Reply (Type 0), Destination Unreachable (Type 3), Time Exceeded (Type 11), and Redirect (Type 5).
