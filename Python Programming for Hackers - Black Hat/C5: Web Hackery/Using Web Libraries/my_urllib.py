@@ -5,7 +5,7 @@ import urllib.request
 how to make a GET request
 """
 # define the target URL
-url = 'http://boodelyboo.com'
+url = 'http://bing.com'
 
 # using the urlopen method as a context manager, we make the request
 with urllib.request.urlopen(url) as response: # GET

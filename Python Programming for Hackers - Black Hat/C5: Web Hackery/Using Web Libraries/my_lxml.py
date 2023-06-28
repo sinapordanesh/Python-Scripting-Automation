@@ -1,14 +1,14 @@
-""""
-Suppose you have the HTML content from a request stored in a variable
-named content. Using lxml, you could retrieve the content and parse the links
-as follows
-"""
-
 from io import BytesIO
 from lxml import etree
 
 import requests
-url = 'https://nostarch.com2' 
+
+""""
+Suppose you have the HTML content from a request stored in a variable
+named content. Using lxml, you could retrieve the content and parse the links as follows
+"""
+
+url = 'https://nostarch.com' 
 r = requests.get(url) # GET
 content = r.content # content is of type 'bytes'
 

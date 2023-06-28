@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://boodelyboo.com'
+url = 'http://google.com'
 response = requests.get(url) # GET
 
 data = {'user': 'tim', 'passwd': '31337'}
