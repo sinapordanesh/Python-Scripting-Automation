@@ -3,7 +3,7 @@
 Welcome to my repository of Python scripts focused on networking and cybersecurity. These scripts cover a wide range of concepts and techniques, and many of them are based on the book "Black Hat Python" by Justin Seitz. However, please note that the scripts also include my own modifications and enhancements.
 
 ## Table of Contents
-- [Basic Networking Tools](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools)
+- [C2: Basic Networking Tools](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools)
     - [TCP Client](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/TCP%20Client%20)
     - [UDP Client](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/UDP%20Client%20)
     - [TCP Server](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/TCP%20Server)
@@ -11,12 +11,12 @@ Welcome to my repository of Python scripts focused on networking and cybersecuri
     - [Building a TCP Proxy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/TCP%20Proxy)
     - [SSH with Paramiko](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/SSH%20With%20Paramiko)
     - [SSH Tunneling](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C2%3A%20Basic%20Networking%20Tools/SSH%20Tunneling%20)
-- [Writing a Sniffer](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer)
+- [C3: Writing a Sniffer](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer)
     - [Packet Sniffing on Windows and Linux](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Packet%20Sniffing%20on%20Windows%20and%20Linux)
     - [Decoding the IP Layer](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Writing%20the%20IP%20Decoder)
     - [Decoding ICMP](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Decoding%20ICMP)
     - [Scanner](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Scanner)
-- [Owning the Network with Scapy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy)
+- [C4: Owning the Network with Scapy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy)
     - [Stealing Email Credentials](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/Stealing%20Email%20Credentials)
     - [ARP Cache Poisoning with Scapy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/ARP%20Cache%20Poisoning%20with%20Scapy)
     - [pcap Processing](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/pcap%20Processing%20)
