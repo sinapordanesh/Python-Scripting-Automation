@@ -16,7 +16,10 @@ Welcome to my repository of Python scripts focused on networking and cybersecuri
     - [Decoding the IP Layer](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Writing%20the%20IP%20Decoder)
     - [Decoding ICMP](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Decoding%20ICMP)
     - [Scanner](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C3%3A%20Writing%20a%20Sniffer/Scanner)
-- [Owning the Network with Scapy]()
+- [Owning the Network with Scapy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy)
+    - [Stealing Email Credentials](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/Stealing%20Email%20Credentials)
+    - [ARP Cache Poisoning with Scapy](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/ARP%20Cache%20Poisoning%20with%20Scapy)
+    - [pcap Processing](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat/C4%3A%20Owning%20the%20Network%20with%20Scapy/pcap%20Processing%20)
 
 
 ## Disclaimer
